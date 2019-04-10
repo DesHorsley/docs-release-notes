@@ -45,6 +45,10 @@ There are no new features in this release
 
 There are no new features in this release
 
+== Known Issues
+
+* MU-1324 - Flaky coverage with Mule 3.9 that gives 0%.
+
 == Fixed Issues
 
 * MU-1287 -	Avoid starting Mule Context for coverage calculation
